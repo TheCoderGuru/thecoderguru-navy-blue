@@ -1,0 +1,21 @@
+{
+    "name": "thecoderguru-navy-blue",
+    "displayName": "TheCoderGuru Navy Blue",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TheCoderGuru Navy Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TheCoderGuru Navy Blue-color-theme.json"
+            }
+        ]
+    }
+}
